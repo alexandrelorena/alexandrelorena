@@ -4,15 +4,16 @@
 
 | Linguagem de Programação e Cloud | IDE's e Database | 
 | :----------- | :----------- | 
-| [![My Skills](https://skillicons.dev/icons?i=git,aws,css,html,java,python)](https://github.com/alexandrelorena?tab=repositories)     | [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,mongodb,mysql)](https://github.com/alexandrelorena?tab=repositories)
+| [![My Skills](https://skillicons.dev/icons?i=git,aws,css,html,java,python)](https://github.com/alexandrelorena?tab=repositories)     | [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,mongodb,mysql)](https://github.com/alexandrelorena?tab=repositories)| Dado 4      | Dado 5      |
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark)](https://github.com/alexandrelorena/github-readme-stats)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena/github-readme-stats)      |
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena/github-readme-stats)
-
+    
+    
 
 Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o currículo online
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark)](https://github.com/alexandrelorena/github-readme-stats)
+
 
