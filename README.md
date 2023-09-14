@@ -11,7 +11,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark_dimmed)](https://github.com/alexandrelorena/github-readme-stats)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena/github-readme-stats)      |
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=820&count=10&unique=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=820&count=3&unique=true)
 
 
 
