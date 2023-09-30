@@ -9,3 +9,5 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark_dimmed)](https://github.com/alexandrelorena/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena)|
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=820&count=3&unique=true)
+
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20923%26project%3D%26in%3D0)](https://codetime.dev)
