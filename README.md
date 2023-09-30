@@ -1,4 +1,4 @@
-#### Olá, eu sou o Alê
+### Olá, eu sou o Alê!
 
 
 Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o currículo online
