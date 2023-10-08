@@ -37,6 +37,18 @@
     <a href="https://twitter.com/alefaith"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/twitter'"
     onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/twitter/gray'">
-    <img src="https://cdn.simpleicons.org/twitter" alt="Java" width="32" height="32"></a>
+    <img src="https://cdn.simpleicons.org/twitter" alt="Java" width="32" height="32"></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@alefaith2008/featured"
+    onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/youtube'"
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/youtube/gray'">
+    <img src="https://cdn.simpleicons.org/youtube" width="32" height="32"></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@alefaith2008/featured"
+    onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/steam/'"
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/steam/white'">
+    <img src="https://cdn.simpleicons.org/steam/gray" width="32" height="32"></a>&nbsp;&nbsp;
+    <a href="https://discord.com/channels/alelorena"
+    onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/discord'"
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/discord/gray'">
+    <img src="https://cdn.simpleicons.org/discord" width="32" height="32"></a> 
 </body>
 </html>
