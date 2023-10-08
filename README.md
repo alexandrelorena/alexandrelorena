@@ -8,7 +8,7 @@
 <body>
 
 
-### Olá, eu sou o Alê! Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o currículo online.
+### Olá, eu sou o Alê! Clique <a href="https://alexandrelorena.github.io/index.html#home">aqui</a> para acessar o currículo online.
 
 
 
