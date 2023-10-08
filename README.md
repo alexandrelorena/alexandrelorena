@@ -27,7 +27,7 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
  [<img src="https://cdn.simpleicons.org/linkedin/gray" width="32" height="32">](https://www.linkedin.com/in/alexandreluizlorena/)&nbsp;
  [<img src="https://cdn.simpleicons.org/twitter/gray" width="32" height="32" class="imagem">](https://twitter.com/alefaith)&nbsp;
  -->
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 	<meta charset="UTF-8">
