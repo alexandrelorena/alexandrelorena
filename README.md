@@ -33,7 +33,7 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="estilo.css">
-	<title>Meu perfil do Github</title>
+
 </head>
 <body>
     <a href="https://www.linkedin.com/in/alexandreluizlorena/"
