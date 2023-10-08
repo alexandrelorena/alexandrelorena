@@ -42,7 +42,7 @@
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/youtube'"
     onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/youtube/gray'">
     <img src="https://cdn.simpleicons.org/youtube" width="32" height="32"></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@alefaith2008/featured"
+    <a href="https://steamcommunity.com/id/alexandrelorena/"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/steam/'"
     onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/steam/white'">
     <img src="https://cdn.simpleicons.org/steam/gray" width="32" height="32"></a>&nbsp;&nbsp;
