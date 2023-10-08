@@ -1,6 +1,6 @@
 
 
-<!-- @import "my-style.less" -->
+<!-- @import "estilo.css" -->
 # Heading1
 
 ### Olá, eu sou o Alê!
@@ -21,13 +21,36 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre_lorena/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandreluizlorena/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.lorena@gmail.com)-->
 
-<!-- Redes sociais - início -->
+<!--
  [<img src="https://cdn.simpleicons.org/gmail/gray" class="imagem" width="32" height="32">](mailto:alexandre.lorena@gmail.com)&nbsp;
  [<img src="https://cdn.simpleicons.org/instagram/gray" width="32" height="32">](https://www.instagram.com/alexandre_lorena/)&nbsp;
  [<img src="https://cdn.simpleicons.org/linkedin/gray" width="32" height="32">](https://www.linkedin.com/in/alexandreluizlorena/)&nbsp;
  [<img src="https://cdn.simpleicons.org/twitter/gray" width="32" height="32" class="imagem">](https://twitter.com/alefaith)&nbsp;
-<!-- Redes sociais - fim -->
-
-
-  <a href="https://example.com">Link com linha sublinhada vermelha</a>
-  
+ -->
+  <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+	<title>Meu perfil do Github</title>
+</head>
+<body>
+    <a href="https://www.linkedin.com/in/alexandreluizlorena/"
+    onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail'"
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail/gray'">
+    <img src="https://cdn.simpleicons.org/gmail/gray" alt="Java" width="32" height="32"></a>
+    <a href="https://www.linkedin.com/in/alexandreluizlorena/"
+    onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/instagram'"
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/instagram/gray'">
+    <img src="https://cdn.simpleicons.org/instagram/gray" alt="Java" width="32" height="32"></a> 
+    <a href="https://www.linkedin.com/in/alexandreluizlorena/"
+    onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/linkedin'"
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/linkedin/gray'">
+    <img src="https://cdn.simpleicons.org/linkedin/gray" alt="Java" width="32" height="32"></a>
+    <a href="https://www.linkedin.com/in/alexandreluizlorena/"
+    onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/twitter'"
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/twitter/gray'">
+    <img src="https://cdn.simpleicons.org/twitter/gray" alt="Java" width="32" height="32"></a>
+</body>
+</html>
