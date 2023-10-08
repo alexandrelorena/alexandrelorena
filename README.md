@@ -8,8 +8,7 @@
 <body>
 
 
-## [Clique aqui](https://alexandrelorena.github.io/index.html#home) para acessar o meu currículo online.
-
+### [Clique aqui](https://alexandrelorena.github.io/index.html#home) para acessar o meu currículo online.
 
 
 ![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)&nbsp;&nbsp;&nbsp;[![linkedin](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=linkedin&color=%23007ec6&style=plastic)](https://www.linkedin.com/in/alexandreluizlorena/)[![github](https://img.shields.io/github/followers/alexandrelorena?logo=github&style=plastic)](https://github.com/alexandrelorena?tab=followers)&nbsp;&nbsp;&nbsp;[![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
@@ -22,7 +21,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=771&count=3&unique=true&) 
 <br><br>
-    <div class="separador"></div>
     <a href="mailto:alexandre.lorena@gmail.com"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail'"
     onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail/gray'" class="a">
