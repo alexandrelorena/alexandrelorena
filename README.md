@@ -8,7 +8,8 @@
 <body>
 
 
-<span style="font-size: 24px;">Olá, eu sou o Alê!</span> Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o currículo online.
+### <span style="font-size:24px;">Olá, eu sou o Alê!</span> Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o currículo online.
+
 
 
 
