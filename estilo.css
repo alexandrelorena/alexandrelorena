@@ -1,0 +1,21 @@
+
+.imagem {
+  filter: grayscale(100%);
+  transition: filter 0.3s;
+}
+
+/* Quando o mouse passa por cima da imagem, remove o filtro de escala de cinza */
+.imagem:hover {
+  filter: none;
+}
+
+.a {
+    text-decoration: none;
+    text-decoration-color: red; /* Substitua "red" pela cor desejada */
+    color: blue;
+  }
+  .a:hover {
+    text-decoration: none;
+    text-decoration-color: red; /* Substitua "red" pela cor desejada */
+    color: red;
+  }
