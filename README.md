@@ -8,7 +8,7 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
 | Cloud, Linguagens de Programação, Marcação e Estilos | IDE's e Database |
 | :----------- | :----------- |
 | [![My Skills](https://skillicons.dev/icons?i=java,git,aws,css,html,python,php,javascript)](https://github.com/alexandrelorena?tab=repositories) | [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,mongodb,mysql,nodejs)](https://github.com/alexandrelorena?tab=repositories)|  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark_dimmed)](https://github.com/alexandrelorena/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena)|
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark_dimmed)](https://github.com/alexandrelorena) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena)|
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=820&count=3&unique=true)
 
