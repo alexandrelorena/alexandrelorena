@@ -25,19 +25,19 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
     <div class="separador"></div>
     <a href="mailto:alexandre.lorena@gmail.com"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail'"
-    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail/gray'" class="a">&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/gmail/gray" alt="Java" width="32" height="32"></a>
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail/gray'" class="a">
+    <img src="https://cdn.simpleicons.org/gmail/gray" alt="Java" width="32" height="32"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/alexandre_lorena/"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/instagram'"
-    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/instagram/gray'" class="a">&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/instagram/gray" alt="Java" width="32" height="32"></a> 
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/instagram/gray'" class="a">
+    <img src="https://cdn.simpleicons.org/instagram/gray" alt="Java" width="32" height="32"></a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/alexandreluizlorena/"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/linkedin'"
-    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/linkedin/gray'" class="a">&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/linkedin/gray" alt="Java" width="32" height="32"></a>
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/linkedin/gray'" class="a">
+    <img src="https://cdn.simpleicons.org/linkedin/gray" alt="Java" width="32" height="32"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/alefaith"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/twitter'"
-    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/twitter/gray'" class="a">&nbsp;&nbsp;
+    onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/twitter/gray'" class="a">
     <img src="https://cdn.simpleicons.org/twitter/gray" alt="Java" width="32" height="32"></a>
 </body>
 </html>
