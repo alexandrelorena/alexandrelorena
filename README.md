@@ -17,18 +17,7 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre_lorena/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandreluizlorena/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.lorena@gmail.com)-->
 
 <!-- Redes sociais - início -->
-<style>
-  /* Define a cor inicial em tons de cinza */
-  .imagem {
-    filter: grayscale(100%);
-    transition: filter 0.3s;
-  }
 
-  /* Quando o mouse passa por cima da imagem, remove o filtro de escala de cinza */
-  .imagem:hover {
-    filter: pink;
-  }
-</style>
  [<img src="https://cdn.simpleicons.org/gmail/gray" class="imagem" alt="Java" width="32" height="32" onmouseover="this.src='https://cdn.simpleicons.org/gmail/'" onmouseout="this.src='https://cdn.simpleicons.org/gmail/gray'">](mailto:alexandre.lorena@gmail.com)&nbsp;
  [<img src="https://cdn.simpleicons.org/instagram" alt="Java" width="32" height="32">](https://www.instagram.com/alexandre_lorena/)&nbsp;
  [<img src="https://cdn.simpleicons.org/linkedin/gray" alt="Java" width="32" height="32">](https://www.linkedin.com/in/alexandreluizlorena/)&nbsp;
