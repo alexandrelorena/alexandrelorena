@@ -17,16 +17,8 @@ Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre_lorena/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandreluizlorena/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.lorena@gmail.com)-->
 
 <!-- Redes sociais - início -->
-<a href="https://www.instagram.com/alexandre_lorena/" target="_blank" style="text-decoration: black">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/instagram"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/alexandreluizlorena/" target="_blank" style="text-decoration: black">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin"/>
-</a>&nbsp;
-<a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: black">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gmail"/>
-</a>&nbsp;
-<a href="https://twitter.com/alefaith" target="_blank" style="text-decoration: black">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/twitter"/>
-</a>
+ [<img src="https://cdn.simpleicons.org/instagram" alt="Java" width="32" height="32">](https://www.instagram.com/alexandre_lorena/)&nbsp;
+ [<img src="https://cdn.simpleicons.org/linkedin" alt="Java" width="32" height="32">](https://www.linkedin.com/in/alexandreluizlorena/)&nbsp;
+ [<img src="https://cdn.simpleicons.org/gmail" alt="Java" width="32" height="32">](mailto:alexandre.lorena@gmail.com)&nbsp;
+ [<img src="https://cdn.simpleicons.org/twitter" alt="Java" width="32" height="32">](https://twitter.com/alefaith)&nbsp;
 <!-- Redes sociais - fim -->
