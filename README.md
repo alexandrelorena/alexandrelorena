@@ -8,7 +8,7 @@
 <body>
 
 
-### Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o currículo online.
+## [Clique aqui](https://alexandrelorena.github.io/index.html#home) para acessar o meu currículo online.
 
 
 
