@@ -14,8 +14,15 @@
     text-decoration-color: red; /* Substitua "red" pela cor desejada */
     color: blue;
   }
-  .a:hover {
+.a:hover {
     text-decoration: none;
     text-decoration-color: red; /* Substitua "red" pela cor desejada */
     color: red;
   }
+.separador {
+    border-top: 1px dotted gray; /* Cor e estilo da linha */
+    width: 100%; /* Largura total do elemento pai */
+    margin: 20px 0; /* Margem acima e abaixo da linha */
+    
+  }
+  
