@@ -20,6 +20,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark_dimmed&line_height=20)](https://github.com/alexandrelorena) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena)
 
 
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=771&count=3&unique=true&) 
 <br><br>
     <a href="mailto:alexandre.lorena@gmail.com"
