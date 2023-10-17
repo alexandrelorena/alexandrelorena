@@ -13,8 +13,27 @@
 
 [![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
 
-| Cloud, Linguagens de Programação, Marcação e Estilos | IDE's e Database |
-| :------------------------------------------------- | :---------------- |
+<style>
+  table {
+    border-collapse: collapse;
+    /* Defina a largura da tabela como 100% para ocupar a largura total */
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  tr:nth-child(odd) {
+    background-color: #22272E; /* Define a cor de fundo das linhas ímpares */
+  }
+  /* Estilos para os cabeçalhos da tabela */
+  th {
+    background-color: #22272E; /* Define a cor de fundo dos cabeçalhos */
+    color: white; /* Define a cor do texto nos cabeçalhos */
+  }
+</style>
+
+
+| :------------------------------------------------- | :----------------: |
 | [![Java](https://skillicons.dev/icons?i=java)](https://github.com/alexandrelorena/JavaEssencial) [![Git](https://skillicons.dev/icons?i=git)](https://github.com/alexandrelorena?tab=repositories) [![AWS](https://skillicons.dev/icons?i=aws)](https://github.com/alexandrelorena?tab=repositories) [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![Python](https://skillicons.dev/icons?i=python)](https://github.com/alexandrelorena/Python) [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/alexandrelorena?tab=repositories) [![JAVASCRIPT](https://skillicons.dev/icons?i=javascript)](https://github.com/alexandrelorena?tab=repositories) | [![Idea](https://skillicons.dev/icons?i=idea)](https://github.com/alexandrelorena?tab=repositories) [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/alexandrelorena?tab=repositories) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://github.com/alexandrelorena?tab=repositories) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/alexandrelorena?tab=repositories) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/alexandrelorena?tab=repositories) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://github.com/alexandrelorena?tab=repositories) |
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark_dimmed&line_height=20)](https://github.com/alexandrelorena) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena)
