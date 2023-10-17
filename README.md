@@ -13,24 +13,6 @@
 
 [![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
 
-<style>
-  table {
-    border-collapse: collapse;
-    /* Defina a largura da tabela como 100% para ocupar a largura total */
-  }
-  th, td {
-    padding: 8px;
-    text-align: left;
-  }
-  tr:nth-child(odd) {
-    background-color: #22272E; /* Define a cor de fundo das linhas ímpares */
-  }
-  /* Estilos para os cabeçalhos da tabela */
-  th {
-    background-color: #22272E; /* Define a cor de fundo dos cabeçalhos */
-    color: white; /* Define a cor do texto nos cabeçalhos */
-  }
-</style>
 
 
 | :------------------------------------------------- | :----------------: |
