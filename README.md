@@ -15,6 +15,7 @@
 
 
 
+|  | |
 | :------------------------------------------------- | :----------------: |
 | [![Java](https://skillicons.dev/icons?i=java)](https://github.com/alexandrelorena/JavaEssencial) [![Git](https://skillicons.dev/icons?i=git)](https://github.com/alexandrelorena?tab=repositories) [![AWS](https://skillicons.dev/icons?i=aws)](https://github.com/alexandrelorena?tab=repositories) [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![Python](https://skillicons.dev/icons?i=python)](https://github.com/alexandrelorena/Python) [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/alexandrelorena?tab=repositories) [![JAVASCRIPT](https://skillicons.dev/icons?i=javascript)](https://github.com/alexandrelorena?tab=repositories) | [![Idea](https://skillicons.dev/icons?i=idea)](https://github.com/alexandrelorena?tab=repositories) [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/alexandrelorena?tab=repositories) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://github.com/alexandrelorena?tab=repositories) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/alexandrelorena?tab=repositories) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/alexandrelorena?tab=repositories) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://github.com/alexandrelorena?tab=repositories) |
   
