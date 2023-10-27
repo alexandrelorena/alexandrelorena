@@ -15,14 +15,22 @@
 
 | Cloud, Linguagens de Programação, Marcação e Estilos | IDE's e Database |
 | :------------------------------------------------- | :---------------- |
-| [![Java](https://skillicons.dev/icons?i=java)](https://github.com/alexandrelorena/JavaEssencial) [![Git](https://skillicons.dev/icons?i=git)](https://github.com/alexandrelorena?tab=repositories) [![AWS](https://skillicons.dev/icons?i=aws)](https://github.com/alexandrelorena?tab=repositories) [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![Python](https://skillicons.dev/icons?i=python)](https://github.com/alexandrelorena/Python) [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/alexandrelorena?tab=repositories) [![JAVASCRIPT](https://skillicons.dev/icons?i=javascript)](https://github.com/alexandrelorena?tab=repositories) | [![Idea](https://skillicons.dev/icons?i=idea)](https://github.com/alexandrelorena?tab=repositories) [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/alexandrelorena?tab=repositories) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://github.com/alexandrelorena?tab=repositories) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/alexandrelorena?tab=repositories) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/alexandrelorena?tab=repositories) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://github.com/alexandrelorena?tab=repositories) |
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=github_dark_dimmed&line_height=20)](https://github.com/alexandrelorena) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&layout=compact)](https://github.com/alexandrelorena)
+| [![Java](https://skillicons.dev/icons?i=java)](https://github.com/alexandrelorena/JavaEssencial) [![Git](https://skillicons.dev/icons?i=git)](https://github.com/alexandrelorena?tab=repositories) [![AWS](https://skillicons.dev/icons?i=aws)](https://github.com/alexandrelorena?tab=repositories) [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![Python](https://skillicons.dev/icons?i=python)](https://github.com/alexandrelorena/Python) [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/alexandrelorena/alexandrelorena.github.io) [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/alexandrelorena?tab=repositories) [![JAVASCRIPT](https://skillicons.dev/icons?i=javascript)](https://github.com/alexandrelorena?tab=repositories) | [![Idea](https://skillicons.dev/icons?i=idea)](https://github.com/alexandrelorena?tab=repositories) [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/alexandrelorena?tab=repositories) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://github.com/alexandrelorena?tab=repositories) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/alexandrelorena?tab=repositories) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/alexandrelorena?tab=repositories) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://github.com/alexandrelorena?tab=repositories) |
 
+
+
+
+<div>
+<!--git status-->
+<a href="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react">
+<img height="125" src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react"></a><!--most used languages--><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=donut&theme=react&size_weight=0.5&count_weight=0.5">
+<img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=donut&theme=react&size_weight=0.5&count_weight=0.5"></a><!--wakatime--><a href = "https://wakatime.com/alexandrelorena"> <img height="125" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react"></a>
+</div>
+<br>
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=771&count=3&unique=true&) 
-<br><br>
+<br>
     <a href="mailto:alexandre.lorena@gmail.com"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail'"
     onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail/gray'">
@@ -51,5 +59,7 @@
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/discord'"
     onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/discord/gray'">
     <img src="https://cdn.simpleicons.org/discord" width="32" height="32"></a> 
+
+    
 </body>
 </html>
