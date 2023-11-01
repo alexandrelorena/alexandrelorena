@@ -13,10 +13,31 @@
 
 [![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
 
-|Cloud, Linguagens de Programação, Marcação e Estilos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDE's e Database |
-| :------------------------------------------------- | :---------------- |
-| [![Java](https://skillicons.dev/icons?i=java)](https://github.com/alexandrelorena/JavaEssencial)&nbsp;[![Git](https://skillicons.dev/icons?i=git)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![AWS](https://skillicons.dev/icons?i=aws)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![CSS](https://skillicons.dev/icons?i=css)](https://github.com/alexandrelorena/alexandrelorena.github.io)&nbsp;[![Python](https://skillicons.dev/icons?i=python)](https://github.com/alexandrelorena/Python)&nbsp;[![HTML](https://skillicons.dev/icons?i=html)](https://github.com/alexandrelorena/alexandrelorena.github.io)&nbsp;[![PHP](https://skillicons.dev/icons?i=php)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![JAVASCRIPT](https://skillicons.dev/icons?i=javascript)](https://github.com/alexandrelorena?tab=repositories) |&nbsp;&nbsp;&nbsp;&nbsp;[![Idea](https://skillicons.dev/icons?i=idea)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![VSCode](https://skillicons.dev/icons?i=vscode)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/alexandrelorena?tab=repositories)&nbsp;[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://github.com/alexandrelorena?tab=repositories) |
 
+
+<div class="table">
+
+  <div class="row">
+    <div class="cell">
+      <a href="https://github.com/alexandrelorena/JavaEssencial"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena/alexandrelorena.github.io"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena/Python"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena/alexandrelorena.github.io"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=idea" alt="Idea"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>&nbsp;
+      <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
+    </div>
+
+  </div>
+</div>
+<br>
 
 <div>
 <!--git status-->
