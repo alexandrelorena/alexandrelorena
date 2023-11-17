@@ -8,7 +8,7 @@
 <body>
 
 
-#### [Clique aqui](https://alexandrelorena.github.io/index.html#home) para acessar o meu currículo online.
+#### [Click here](https://alexandrelorena.github.io/index.html#home) to access my online resume.
 
 
 [![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
