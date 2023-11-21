@@ -11,9 +11,10 @@
 ### [Click here](https://alexandrelorena.github.io/index.html#home) to access my online resume.
 
 
-[![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
-
-
+[![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)
+[![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
+![Profile Views](https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=Total%20Views&color=brown)
+[![HitCount](https://hits.dwyl.com/alexandrelorena/alexandrelorena.svg?style=flat-square&show=unique)](http://hits.dwyl.com/alexandrelorena/alexandrelorena)
 
 <div class="table">
 
@@ -80,8 +81,5 @@
     onmouseout="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/discord/gray'">
     <img src="https://cdn.simpleicons.org/discord" width="32" height="32"></a> </div>
 
- 
-
-    
 </body>
 </html>
