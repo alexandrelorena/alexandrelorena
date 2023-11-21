@@ -11,9 +11,10 @@
 ### [Click here](https://alexandrelorena.github.io/index.html#home) to access my online resume.
 
 [![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;
+![Static Badge](https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue)&nbsp;&nbsp;&nbsp;&nbsp;
 [![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Profile Views](https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=total%20views&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;
-![Static Badge](https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue)&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <div class="table">
 
