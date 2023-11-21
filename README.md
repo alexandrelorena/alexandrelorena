@@ -10,10 +10,10 @@
 
 ### [Click here](https://alexandrelorena.github.io/index.html#home) to access my online resume.
 
-
 [![alexandrelorena](https://img.shields.io/badge/alexandre-lorena-blue)](https://github.com/alexandrelorena?tab=repositories)
 [![alexandrelorena](https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg)](https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65)
-![Profile Views](https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=Total%20Views&color=brown)
+![Profile Views](https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=total%20views&color=blue)
+![Static Badge](https://shields-io.translate.goog/badge/aws_%7C_css_%7C_git_%7C_html_%7C_java_%7C_python-dev-blue)
 [![HitCount](https://hits.dwyl.com/alexandrelorena/alexandrelorena.svg?style=flat-square&show=unique)](http://hits.dwyl.com/alexandrelorena/alexandrelorena)
 
 <div class="table">
