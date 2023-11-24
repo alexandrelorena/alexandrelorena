@@ -11,16 +11,16 @@
 
 ### [Click here](https://alexandrelorena.github.io/index.html#home) to access my online resume.
 <p>
-  <a href="https://github.com/alexandrelorena?tab=repositories">
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
     <img src="https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue" alt="alexandrelorena">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories">
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/alexandre-lorena-blue" alt="alexandrelorena">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65">
+  <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65">
+  <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=total%20views&color=blue" alt="Wakatime">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -40,7 +40,8 @@
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
 </div>
-<br>
+
+<!-- 
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=compact&theme=react&size_weight=0.5&count_weight=0.5" style="text-decoration: none;">
     <img height="134" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=compact&theme=react&size_weight=0.5&count_weight=0.5">
@@ -52,7 +53,26 @@
     <img height="134" src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react">
   </a>
 </div>
-<div><br>
+
+  <a href="https://wakatime.com/alexandrelorena" style="text-decoration: none;">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react"></a>
+  <a href="https://wakatime.com/alexandrelorena" style="text-decoration: none;">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react"></a>
+  <a href="https://wakatime.com/alexandrelorena" style="text-decoration: none;">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react"></a>
+-->
+
+![Imagem abaixo](https://i.imgur.com/h1q7oo1.jpg){width=785px height=3px}
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="125" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/>
+</div>
+
+![Imagem abaixo](https://i.imgur.com/h1q7oo1.jpg){width=785px height=3px}
+
+<div>
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/alexandre_lorena/" style="text-decoration: none;">
@@ -68,5 +88,6 @@
   <a href="https://discord.com/channels/alelorena" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/discord" width="32" height="32"></a>
 </div>
+
 </body>
 </html>
