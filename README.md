@@ -7,7 +7,7 @@
 </head>
 <body>
 
-### [Click here](https://alexandrelorena.github.io/index.html#home) to access my online resume.
+### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 <p>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
     <img src="https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue" alt="alexandrelorena"></a>
