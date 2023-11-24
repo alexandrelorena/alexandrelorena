@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://github.com/alexandrelorena?tab=repositories">
-    <img src="https://img.shields.io/badge/alexandre-lorena-blue" alt="alexandrelorena">
+    <img src="https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue" alt="alexandrelorena">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories">
-    <img src="https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue" alt="alexandrelorena">
+    <img src="https://img.shields.io/badge/alexandre-lorena-blue" alt="alexandrelorena">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime">
