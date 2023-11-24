@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -7,11 +9,9 @@
 </head>
 <body>
 
-<h3 align="center">
-  <a href="https://alexandrelorena.github.io/index.html#home">Click here to access my online resume</a>
-</h3>
+### [Click here](https://alexandrelorena.github.io/index.html#home) to access my online resume.
 
-<p align="center">
+<p>
   <a href="https://github.com/alexandrelorena?tab=repositories">
     <img src="https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue" alt="alexandrelorena">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<div align="center">
+<div>
   <a href="https://github.com/alexandrelorena/JavaEssencial"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>&nbsp;
@@ -45,7 +45,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=compact&theme=react&size_weight=0.5&count_weight=0.5">
     <img height="134" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=compact&theme=react&size_weight=0.5&count_weight=0.5">
   </a>
@@ -57,7 +57,7 @@
   </a>
 </div>
 
-<div align="center">
+<div><br>
   <a href="mailto:alexandre.lorena@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32">
   </a>&nbsp;&nbsp;
