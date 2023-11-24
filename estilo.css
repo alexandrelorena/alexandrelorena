@@ -12,13 +12,13 @@
 .a {
   text-decoration: none;
   text-decoration-color: transparent; /* Borda completamente transparente */
-  color: blue;
+  color: rgba(0, 0, 255, 0);
 }
 
 .a:hover {
   text-decoration: none;
   text-decoration-color: transparent; /* Borda completamente transparente */
-  color: blue;
+  color: rgba(0, 0, 255, 0);
 }
 
 .separador {
