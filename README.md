@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="estilo.css">
+    
 </head>
 <body>
 
@@ -58,12 +59,12 @@
 </div>
 
 <div><br>
-  <a href="mailto:alexandre.lorena@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/alexandre_lorena/">
+  <span onclick="window.location.href='mailto:alexandre.lorena@gmail.com';">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32" style="cursor: pointer;">
+  </span>&nbsp;&nbsp;
+  <span onclick="window.location.href='https://www.instagram.com/alexandre_lorena/';" style="cursor: pointer;">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="32" height="32">
-  </a>&nbsp;&nbsp;
+  </span>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexandreluizlorena/">
     <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="32" height="32">
   </a>&nbsp;&nbsp;
