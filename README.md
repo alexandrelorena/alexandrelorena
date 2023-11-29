@@ -7,7 +7,8 @@
 </head>
 <body>
 
-### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
+# [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
+
 <p>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
     <img src="https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue" alt="alexandrelorena"></a>
@@ -20,8 +21,8 @@
     &nbsp;&nbsp;&nbsp;
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=total%20views&color=blue" alt="Wakatime"></a>
-    &nbsp;&nbsp;&nbsp;</p>
-
+    &nbsp;
+</p>
 <div>
   <a href="https://github.com/alexandrelorena/JavaEssencial" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>&nbsp;
@@ -38,8 +39,8 @@
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
 </div>
-
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="785" height="5">
+ &nbsp;
+<img src="https://i.imgur.com/h1q7oo1.jpg" class="img-fluid" alt="Separator">
 
 <div align="justify">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/>
@@ -47,8 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
 </div>
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="785" height="5">
-
+<img src="https://i.imgur.com/h1q7oo1.jpg" class="img-fluid" alt="Separator">
+ &nbsp;
 <div>
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32"></a>&nbsp;&nbsp;
@@ -64,6 +65,7 @@
     <img src="https://cdn.simpleicons.org/steam/gray" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://discord.com/channels/alelorena" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/discord" width="32" height="32"></a>
+  <!-- Adicione os demais ícones e links aqui -->
 </div>
 
 </body>
