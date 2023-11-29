@@ -30,7 +30,7 @@
   <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>&nbsp;
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=idea" alt="Idea"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>&nbsp;
