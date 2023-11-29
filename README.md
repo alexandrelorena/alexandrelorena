@@ -39,7 +39,7 @@
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
 </div>
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="785" height="5">
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
 <div align="justify">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/>
@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
 </div>
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="785" height="5">
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
 <div>
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
