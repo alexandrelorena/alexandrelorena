@@ -9,14 +9,16 @@
 
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 <p>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
-    <img src="https://shields-io.translate.goog/badge/aws%20_%7C_%20css%203%20_%7C_%20git%20_%7C_%20html%205%20_%7C_%20java%20_%7C_%20python-developer-blue" alt="alexandrelorena"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
+
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none">
     <img src="https://img.shields.io/badge/alexandre-lorena-blue" alt="alexandrelorena"></a>
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
-    <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
+    <img src="https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=views&color=blue" alt="total views"></a>
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
-    <img src="https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=total%20views&color=blue" alt="Wakatime"></a>
+    <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none">
+    <img src="https://shields-io.translate.goog/badge/
+    css%20%20_%7C_%20git%20%20_%7C_%20html%20%20_%7C_%20java%20%20_%7C_%20javascript%20_%7C_%20php%20%20_%7C_%20python-developer-blue" alt="developer"></a>
 </p>
 
 <div>
