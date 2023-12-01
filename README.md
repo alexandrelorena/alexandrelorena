@@ -18,7 +18,7 @@
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none">
     <img src="https://shields-io.translate.goog/badge/
-    css%20%20_%7C_%20git%20%20_%7C_%20html%20%20_%7C_%20java%20%20_%7C_%20javascript%20_%7C_%20php%20%20_%7C_%20python-developer-blue" alt="developer"></a>
+    css 3%20_%7C_%20git%20_%7C_%20html 5%20_%7C_%20java%20_%7C_%20javascript%20_%7C_%20php%20_%7C_%20python-developer-blue" alt="developer"></a>
 </p>
 
 <div>
