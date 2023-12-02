@@ -14,7 +14,7 @@
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=total%20views&color=blue" alt="total views"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
-    <img src="https://shields-io.translate.goog/badge/css%20_%7C_%20%20git%20_%7C_%20%20html%20_%7C_%20%20java%20_%7C_%20%20javascript%20_%7C_%20%20php%20_%7C_%20%20python%20_%7C_%20%20typescript-developer-blue" alt="developer"></a>
+    <img src="https://shields-io.translate.goog/badge/css%20_%6c_%20%20git%20_%6c_%20%20html%20_%6c_%20%20java%20_%6c_%20%20javascript%20_%6c_%20%20php%20_%6c_%20%20python%20_%6c_%20%20typescript_%20-> developer__-blue" alt="developer"></a>
 </p>
 
 <div>
