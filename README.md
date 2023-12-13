@@ -7,6 +7,7 @@
 </head>
 <body>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=800&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Hy%2C++I'm+Al%C3%AA!+%E2%98%BB+%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Java+and+Python+development+student!++%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90)](https://git.io/typing-svg)
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 <p>
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
@@ -63,3 +64,29 @@
 
 </body>
 </html>
+
+<br>
+<!--
+<p align="left">
+  <a
+    href="https://github.com/alexandrelorena/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=alexandrelorena&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<!--
+<div align="left">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="left">
+  <img
+    src="https://profile-counter.glitch.me/alexandrelorena/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
