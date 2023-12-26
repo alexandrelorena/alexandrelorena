@@ -66,30 +66,3 @@
 
 </body>
 </html>
-
-<br>
-<!--
-<p align="left">
-  <a
-    href="https://github.com/alexandrelorena/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=alexandrelorena&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-<!--
-<div align="left">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="left">
-  <img
-    src="https://profile-counter.glitch.me/alexandrelorena/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
--->
