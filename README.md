@@ -21,6 +21,7 @@
 <div>
   <a href="https://github.com/alexandrelorena/JavaEssencial" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>&nbsp;
+
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>&nbsp;
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>&nbsp;
   <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>&nbsp;
