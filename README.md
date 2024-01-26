@@ -35,6 +35,7 @@
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="36"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="36"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="36"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="36"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="36"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="36"></a>&nbsp;
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="36"></a>
