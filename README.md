@@ -19,26 +19,26 @@
 </p>
 
 <div>
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena/JavaEssencial" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=idea" alt="Idea" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="34"></a>&nbsp;
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="34"></a>&nbsp;
+  &nbsp;&nbsp;<a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="34"></a>  
+  <a href="https://github.com/alexandrelorena/JavaEssencial" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="34"></a>
+  <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="34"></a>
+  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="34"></a>
+  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=idea" alt="Idea" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="34"></a>
+  <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="34"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="34"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="34"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=docker" alt="AWS" height="34"></a>
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="34"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="34"></a>
-
 </div>
 
 <!--
