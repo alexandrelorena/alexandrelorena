@@ -13,10 +13,9 @@
 <p>
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
-  <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
-    <img src="https://shields-io.translate.goog/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falexandrelorena%2Falexandrelorena.json&label=total%20views&color=blue" alt="total views"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
-    <img src="https://shields-io.translate.goog/badge/css%20_%6c_%20%20git%20_%6c_%20%20html%20_%6c_%20%20java%20_%6c_%20%20javascript%20_%6c_%20%20php%20_%6c_%20%20python%20_%6c_%20%20typescript_%20-> developer __-blue" alt="developer"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap4%20%7C%20css%20%7C%20git%20%7C%20html%20%7C%20django%20%7C%20java%20%7C%20javascript%20%7C%20mysql%20%7C%20php%20%7C%20postgres%20%7C%20python%20%7C-%3E%20developer%20__-blue?style=flat">
+  </a>
 </p>
 
 <div>
