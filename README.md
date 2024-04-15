@@ -31,9 +31,7 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a> 
 </div>
 
-<div style="width: 780;">
-    <hr style="height: 3; background-color: #373e48;">
-</div>
+---
 
 ### Languages of Markup and Style
 
