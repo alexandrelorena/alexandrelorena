@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<div style="width: 700;">
+<div style="width: 500;">
     <hr style="height: 3; background-color: #373e48;">
 </div>
 
