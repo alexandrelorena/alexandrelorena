@@ -135,10 +135,28 @@
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="1"><br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="125" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="208" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="208" alt="languages graph" />
+  <br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="330" alt="stats graph"/> -->
+
+   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FF7B72&text_color=586069&title_color=293241&border_color=444444
+ " height="330" alt="stats graph"/>
 </div>
+
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=293241&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444
+ " height="330" alt="stats graph"/>
+
+
+ <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=1A1B27&icon_color=FFD700&text_color=F0F6FC&title_color=FFD700&border_color=444444
+ " height="330" alt="stats graph"/>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=FFFFFF&icon_color=FF7B72&text_color=586069&title_color=24292E&border_color=444444
+ " height="330" alt="stats graph"/> -->
+
+
+
+
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="1"><br>
 
