@@ -18,49 +18,54 @@
   </a>
 </p>
 
-<div style="width: 500;">
-    <hr style="height: 3; background-color: #373e48;">
-</div>
-
-### Frameworks and Front End Technologies
-
-<div>
+ <details> 
+ <summary><strong>Frameworks and Front End Technologies</strong></summary>
+ <br>
+ <div>
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Springboot" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="45"></a>&nbsp;
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a> 
 </div>
+</details>
+<!-- 
+<div style="width: 780;">
+    <hr style="height: 3; background-color: #373e48;">
+</div> -->
 
----
-
-### Languages of Markup and Style
-
+ <details> 
+ <summary><strong>Languages of Markup and Style</strong></summary>
+ <br>
 <div>
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45"></a>&nbsp;  
   <a href=""style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45"></a>&nbsp;
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="45"></a>&nbsp; 
 </div>
+</details>
 
-<div style="width: 780;">
+<!-- <div style="width: 780;">
     <hr style="height: 3; background-color: #373e48;">
-</div>
+</div> -->
 
-### Programming Language
-
+ <details> 
+ <summary><strong>Programming Language</strong></summary>
+ <br>
 <div>
   <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"></a>&nbsp;
   <a href="https://github.com/alexandrelorena/JavaEssencial" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45"></a>
 </div>
+</details>
 
-<div style="width: 780;">
+<!-- <div style="width: 780;">
     <hr style="height: 3; background-color: #373e48;">
-</div>
+</div> -->
 
-### Development tools
-
+ <details> 
+ <summary><strong>Development tools</strong></summary>
+ <br>
 <div>
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="45"></a>&nbsp; 
@@ -70,13 +75,15 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="45"></a>&nbsp;
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" height="45"></a>
 </div>
+</details>
 
-<div style="width: 780;">
+<!-- <div style="width: 780;">
     <hr style="height: 3; background-color: #373e48;">
-</div>
+</div> -->
 
-### Databases and Related Technologies
-
+ <details> 
+ <summary><strong>Databases and Related Technologies</strong></summary>
+ <br>
 <div>
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45"></a>&nbsp; 
@@ -87,10 +94,11 @@
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"></a>&nbsp;
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45"></a>
 </div>
+</details>
 
-<div style="width: 780;">
+<!-- <div style="width: 780;">
     <hr style="height: 3; background-color: #373e48;">
-</div>
+</div> -->
 <!--
 [![My Skills](https://skillicons.dev/icons?i=git,java,php,python,css,html,javascript,markdown,idea,eclipse,vscode,django,bootstrap,sqlite,mysql,mongodb,nodejs,aws,&perline=14)](https://skillicons.dev)
 -->
@@ -103,7 +111,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
 </div>
 
-<!-- <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5"> -->
 <br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=780)
