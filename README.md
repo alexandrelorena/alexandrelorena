@@ -41,7 +41,7 @@
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.x'x'' -->
 
-<span style="color:yellow;">Este é um texto amarelo.</span>
+<!-- <span style="color:yellow;">Este é um texto amarelo.</span> -->
 
  <details> 
  <summary><strong>Frameworks and Front End Technologies</strong></summary>
