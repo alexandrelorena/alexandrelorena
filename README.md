@@ -14,38 +14,91 @@
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap4%20%7C%20css%20%7C%20git%20%7C%20html%20%7C%20django%20%7C%20java%20%7C%20javascript%20%7C%20mysql%20%7C%20php%20%7C%20postgres%20%7C%20python%20%7C-%3E%20developer%20__-blue?style=flat">
+    <img alt="Static Badge" src="https://img.shields.io/badge/angular%20%7C%20bootstrap4%20%7C%20%20django%20%7C%20java%20%7C%20js%20%7C%20mysql%20%7C%20%20postgres%20%7C%20python%20%7C%20spring%20%7C%20typescript%20%7C-%3E%20developer%20__-blue?style=flat">
   </a>
 </p>
 
+<div style="width: 80%;">
+    <hr style="height: 3px; background-color: #373e48;">
+</div>
+
+### Frameworks and Front End Technologies
+
 <div>
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="35"></a>  
-  <a href="https://github.com/alexandrelorena/JavaEssencial" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="35"></a>
-  <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="35"></a>
-  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="35"></a>
-  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=idea" alt="Idea" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="35"></a>
-  <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=docker" alt="AWS" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="35"></a>
-  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="35"></a>
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Springboot" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="45"></a>&nbsp;
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a> 
+</div>
+
+<div style="width: 80%;">
+    <hr style="height: 3px; background-color: #373e48;">
+</div>
+
+### Languages of Markup and Style
+
+<div>
+  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45"></a>&nbsp;  
+  <a href=""style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="45"></a>&nbsp; 
+</div>
+
+<div style="width: 80%;">
+    <hr style="height: 3px; background-color: #373e48;">
+</div>
+
+### Programming Language
+
+<div>
+  <a href="https://github.com/alexandrelorena/Python" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena/JavaEssencial" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45"></a>
+</div>
+
+<div style="width: 80%;">
+    <hr style="height: 3px; background-color: #373e48;">
+</div>
+
+### Development tools
+
+<div>
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=idea" alt="Idea" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="45"></a>&nbsp;
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" height="45"></a>
+</div>
+
+<div style="width: 80%;">
+    <hr style="height: 3px; background-color: #373e48;">
+</div>
+
+### Databases and Related Technologies
+
+<div>
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"></a>&nbsp;
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45"></a>
+</div>
+
+<div style="width: 80%;">
+    <hr style="height: 3px; background-color: #373e48;">
 </div>
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=git,java,php,python,css,html,javascript,markdown,idea,eclipse,vscode,django,bootstrap,sqlite,mysql,mongodb,nodejs,aws,&perline=14)](https://skillicons.dev)
 -->
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
+<!-- <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5"> -->
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/>
@@ -53,7 +106,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
 </div>
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
+<!-- <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5"> -->
+<br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=780)
 
