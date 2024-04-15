@@ -143,15 +143,12 @@
    <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FF7B72&text_color=586069&title_color=F0F6FC&border_color=444444" height="330" alt="stats graph"/>
 </div>
 
- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444
- " height="330" alt="stats graph"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="330" alt="stats graph"/>
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FFD700&text_color=F0F6FC&title_color=FFD700&border_color=444444
- " height="330" alt="stats graph"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FFD700&text_color=F0F6FC&title_color=FFD700&border_color=444444" height="330" alt="stats graph"/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FF7B72&text_color=586069&title_color=24292E&border_color=444444
- " height="330" alt="stats graph"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FF7B72&text_color=586069&title_color=24292E&border_color=444444" height="330" alt="stats graph"/>
 
 
 
