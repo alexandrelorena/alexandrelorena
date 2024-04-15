@@ -10,6 +10,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=800&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Hy%2C++I'm+Al%C3%AA!+%E2%98%BB+%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Java+and+Python+development+student!++%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90)](https://git.io/typing-svg)
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 
+
+<!-- CHECKBOX
+
+- [ ] checkbox
+* [X] checkbox
+- [X] checkbox
++ [X] checkbox -->
+
 <p>
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
@@ -17,6 +25,23 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/angular%20%7C%20bootstrap4%20%7C%20%20django%20%7C%20java%20%7C%20js%20%7C%20mysql%20%7C%20%20postgres%20%7C%20python%20%7C%20spring%20%7C%20typescript%20%7C-%3E%20developer%20__-blue?style=flat">
   </a>
 </p>
+
+<!-- > [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.x'x'' -->
+
+<span style="color:yellow;">Este é um texto amarelo.</span>
 
  <details> 
  <summary><strong>Frameworks and Front End Technologies</strong></summary>
@@ -28,6 +53,8 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a> 
 </div>
 </details>
+
+
 <!-- 
 <div style="width: 780;">
     <hr style="height: 3; background-color: #373e48;">
@@ -105,13 +132,19 @@
 
 <!-- <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5"> -->
 
-<div align="left">
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="1"><br>
+
+<!-- <div align="left"> -->
+<div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="125" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
+  <img src="https://camo.githubusercontent.com/71e9566b10b12f949df2bc2f0b22125d64b776b45c9c645d1efa8e480e6daa3c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616c6578616e6472656c6f72656e6126686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d7265616374266c6f63616c653d656e26686964655f626f726465723d66616c7365266f726465723d31" height="125" alt="stats graph"/>
 </div>
 
-<br>
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="1"><br>
+
+<!-- https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1 -->
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=780)
 
