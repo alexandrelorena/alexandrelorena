@@ -18,8 +18,8 @@
   </a>
 </p>
 
-<div style="width: 40%;">
-    <hr style="height: 3px; background-color: #373e48;">
+<div style="width: 780;">
+    <hr style="height: 3; background-color: #373e48;">
 </div>
 
 ### Frameworks and Front End Technologies
@@ -31,8 +31,8 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a> 
 </div>
 
-<div style="width: 40%;">
-    <hr style="height: 3px; background-color: #373e48;">
+<div style="width: 780;">
+    <hr style="height: 3; background-color: #373e48;">
 </div>
 
 ### Languages of Markup and Style
@@ -44,8 +44,8 @@
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="45"></a>&nbsp; 
 </div>
 
-<div style="width: 40%;">
-    <hr style="height: 3px; background-color: #373e48;">
+<div style="width: 780;">
+    <hr style="height: 3; background-color: #373e48;">
 </div>
 
 ### Programming Language
@@ -57,8 +57,8 @@
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45"></a>
 </div>
 
-<div style="width: 40%;">
-    <hr style="height: 3px; background-color: #373e48;">
+<div style="width: 780;">
+    <hr style="height: 3; background-color: #373e48;">
 </div>
 
 ### Development tools
@@ -73,8 +73,8 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" height="45"></a>
 </div>
 
-<div style="width: 40%;">
-    <hr style="height: 3px; background-color: #373e48;">
+<div style="width: 780;">
+    <hr style="height: 3; background-color: #373e48;">
 </div>
 
 ### Databases and Related Technologies
@@ -90,10 +90,9 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45"></a>
 </div>
 
-<div style="width: 40%;">
-    <hr style="height: 3px; background-color: #373e48;">
+<div style="width: 780;">
+    <hr style="height: 3; background-color: #373e48;">
 </div>
-
 <!--
 [![My Skills](https://skillicons.dev/icons?i=git,java,php,python,css,html,javascript,markdown,idea,eclipse,vscode,django,bootstrap,sqlite,mysql,mongodb,nodejs,aws,&perline=14)](https://skillicons.dev)
 -->
