@@ -138,7 +138,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="125" alt="languages graph" />
-  <img src="https://camo.githubusercontent.com/71e9566b10b12f949df2bc2f0b22125d64b776b45c9c645d1efa8e480e6daa3c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616c6578616e6472656c6f72656e6126686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d7265616374266c6f63616c653d656e26686964655f626f726465723d66616c7365266f726465723d31" height="125" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="125" alt="stats graph"/>
 </div>
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="1"><br>
