@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<div style="width: 60%;">
+<div style="width: 782px;">
     <hr style="height: 3px; background-color: #373e48;">
 </div>
 
@@ -31,7 +31,7 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a> 
 </div>
 
-<div style="width: 60%;">
+<div style="width: 782px;">
     <hr style="height: 3px; background-color: #373e48;">
 </div>
 
@@ -44,7 +44,7 @@
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="45"></a>&nbsp; 
 </div>
 
-<div style="width: 60%;">
+<div style="width: 782px;">
     <hr style="height: 3px; background-color: #373e48;">
 </div>
 
@@ -57,7 +57,7 @@
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45"></a>
 </div>
 
-<div style="width: 60%;">
+<div style="width: 782px;">
     <hr style="height: 3px; background-color: #373e48;">
 </div>
 
@@ -73,7 +73,7 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" height="45"></a>
 </div>
 
-<div style="width: 60%;">
+<div style="width: 782px;">
     <hr style="height: 3px; background-color: #373e48;">
 </div>
 
@@ -90,7 +90,7 @@
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45"></a>
 </div>
 
-<div style="width: 60%;">
+<div style="width: 782px;">
     <hr style="height: 3px; background-color: #373e48;">
 </div>
 
