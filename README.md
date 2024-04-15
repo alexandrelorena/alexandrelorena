@@ -148,7 +148,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=780)
 
-<div style="margin-left: 5px">
+<div style="margin-left: 10px">
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/alexandre_lorena/" style="text-decoration: none;">
