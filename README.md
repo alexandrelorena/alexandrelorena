@@ -4,12 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="estilo.css">
-</head>
+</head>gree
 <body>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=800&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Hy%2C++I'm+Al%C3%AA!+%E2%98%BB+%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Java+and+Python+development+student!++%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90)](https://git.io/typing-svg)
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 
+#### About Me!
+```javascript
+
+public class aboutMe {
+    public static void main(String[] args) {
+        var name = "Alexandre Lorena";
+        var age = 49;
+        var course = "Software Engineering";
+        var languages = "Java, Python, JavaScript, TypeScript";
+        var hobbies = "programming, music, movies, series";
+
+        System.out.println("Name: " + name + " | Age: " + age);
+        System.out.println("Academic education: " + course);
+        System.out.println("Languages: " + languages);
+        System.out.println("Hobbies: " + hobbies);
+        
+    }
+}
+
+
+```
 
 <!-- CHECKBOX
 
