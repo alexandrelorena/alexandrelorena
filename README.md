@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="estilo.css">
-</head>gree
+</head>
 <body>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=800&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Hy%2C++I'm+Al%C3%AA!+%E2%98%BB+%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Java+and+Python+development+student!++%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90)](https://git.io/typing-svg)
@@ -153,7 +153,7 @@ public class aboutMe {
 
 <!-- <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5"> -->
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="1"><br>
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react&bg_color=22272E&icon_color=98C1D9&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="205" alt="Wakatime graph"/>
@@ -178,7 +178,7 @@ public class aboutMe {
 
 
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="1"><br>
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <!-- https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1 -->
 
