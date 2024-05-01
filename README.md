@@ -7,7 +7,7 @@
 </head>
 <body>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=800&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Hy%2C++I'm+Al%C3%AA!+%E2%98%BB+%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+Java+and+Python+development+student!++%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=840&lines=܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Hy%2C++I'm+Al%C3%AA!+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀;܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Java+and+Python+development+student!++܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀)](https://git.io/typing-svg)
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 
 #### About Me!
@@ -43,7 +43,7 @@ public class aboutMe {
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/angular%20%7C%20bootstrap4%20%7C%20%20django%20%7C%20java%20%7C%20js%20%7C%20mysql%20%7C%20%20postgres%20%7C%20python%20%7C%20spring%20%7C%20typescript%20%7C-%3E%20developer%20__-blue?style=flat">
+    <img alt="Static Badge" src="https://img.shields.io/badge/angular%20%7C%20bootstrap %20%7C%20%20django%20%7C%20java%20%7C%20javascript%20%7C%20mysql%20%7C%20%20postgres%20%7C%20python%20%7C%20spring%20%7C%20typescript%20%7C-%3E%20development%20__-blue?style=flat">
   </a>
 </p>
 
@@ -156,15 +156,15 @@ public class aboutMe {
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react&bg_color=22272E&icon_color=98C1D9&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="205" alt="Wakatime graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="205" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react&bg_color=22272E&icon_color=98C1D9&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="221" alt="Wakatime graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="221" alt="languages graph"/>
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="205" alt="languages graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="205" alt="languages graph"/> -->
   <br>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="330" alt="stats graph"/> -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="325" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="350" alt="stats graph"/>
 </div>
 
 
@@ -183,7 +183,7 @@ public class aboutMe {
 <!-- https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1 -->
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=780)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=840)
 
 <div>
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
