@@ -29,7 +29,6 @@ public class aboutMe {
     }
 }
 
-
 ```
 
 <!-- CHECKBOX
@@ -65,36 +64,14 @@ public class aboutMe {
 <!-- <span style="color:yellow;">Este é um texto amarelo.</span> -->
 
  <details> 
- <summary><strong>Frameworks and Front End Technologies</strong></summary>
- <br>
- <div>
-  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Springboot" height="45"></a>&nbsp; 
-  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="45"></a>&nbsp; 
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="45"></a>&nbsp;
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a> 
-</div>
-</details>
-
-
-<!-- 
-<div style="width: 780;">
-    <hr style="height: 3; background-color: #373e48;">
-</div> -->
-
- <details> 
  <summary><strong>Languages of Markup and Style</strong></summary>
  <br>
 <div>
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="45"></a>&nbsp; 
-  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45"></a>&nbsp;  
-  <a href=""style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45"></a>&nbsp;
   <a href="https://github.com/alexandrelorena/alexandrelorena.github.io" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="45"></a>&nbsp; 
 </div>
 </details>
-
-<!-- <div style="width: 780;">
-    <hr style="height: 3; background-color: #373e48;">
-</div> -->
 
  <details> 
  <summary><strong>Programming Language</strong></summary>
@@ -107,16 +84,23 @@ public class aboutMe {
 </div>
 </details>
 
-<!-- <div style="width: 780;">
-    <hr style="height: 3; background-color: #373e48;">
-</div> -->
+ <details> 
+ <summary><strong>Frameworks and Front End Technologies</strong></summary>
+ <br>
+ <div>
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Springboot" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="45"></a>&nbsp; 
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="45"></a>&nbsp;
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a>
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="45"></a>&nbsp;  
+</div>
+</details>
 
  <details> 
  <summary><strong>Development tools</strong></summary>
  <br>
 <div>
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" height="45"></a>&nbsp; 
-  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=idea" alt="Idea" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="45"></a>&nbsp; 
@@ -125,12 +109,8 @@ public class aboutMe {
 </div>
 </details>
 
-<!-- <div style="width: 780;">
-    <hr style="height: 3; background-color: #373e48;">
-</div> -->
-
  <details> 
- <summary><strong>Databases and Related Technologies</strong></summary>
+ <summary><strong>Databases and Other Technologies</strong></summary>
  <br>
 <div>
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="45"></a>&nbsp; 
@@ -140,18 +120,10 @@ public class aboutMe {
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"></a>&nbsp;
+  <a href=""style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45"></a>&nbsp;
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45"></a>
 </div>
 </details>
-
-<!-- <div style="width: 780;">
-    <hr style="height: 3; background-color: #373e48;">
-</div> -->
-<!--
-[![My Skills](https://skillicons.dev/icons?i=git,java,php,python,css,html,javascript,markdown,idea,eclipse,vscode,django,bootstrap,sqlite,mysql,mongodb,nodejs,aws,&perline=14)](https://skillicons.dev)
--->
-
-<!-- <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5"> -->
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
@@ -159,10 +131,7 @@ public class aboutMe {
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react&bg_color=22272E&icon_color=98C1D9&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="221" alt="Wakatime graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="221" alt="languages graph"/>
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="205" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="205" alt="languages graph"/> -->
   <br>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="330" alt="stats graph"/> -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="350" alt="stats graph"/>
 </div>
@@ -174,14 +143,7 @@ public class aboutMe {
 
  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FF7B72&text_color=586069&title_color=FFD700&border_color=444444" height="330" alt="stats graph"/> -->
 
-
-
-
-
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
-
-<!-- https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1 -->
-
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=840)
 
