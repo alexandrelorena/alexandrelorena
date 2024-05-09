@@ -88,9 +88,10 @@ public class aboutMe {
  <summary><strong>Frameworks and Front End Technologies</strong></summary>
  <br>
  <div>
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Springboot" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="45"></a>&nbsp; 
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="45"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena/gastos.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="45"></a>&nbsp;
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a>
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="45"></a>&nbsp;  
 </div>
@@ -105,7 +106,7 @@ public class aboutMe {
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=idea" alt="Idea" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="45"></a>&nbsp;
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" height="45"></a>
+  <a href="https://github.com/alexandrelorena/gastos.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" height="45"></a>
 </div>
 </details>
 
@@ -117,10 +118,10 @@ public class aboutMe {
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"></a>&nbsp; 
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45"></a>&nbsp; 
+  <a href="https://github.com/alexandrelorena/gastos.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45"></a>&nbsp; 
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"></a>&nbsp;
-  <a href=""style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena/gastos.git"style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45"></a>&nbsp;
   <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45"></a>
 </div>
 </details>
