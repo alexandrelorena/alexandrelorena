@@ -7,7 +7,8 @@
 </head>
 <body>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=840&lines=܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Hy%2C++I'm+Al%C3%AA!+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀;܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Java+and+Python+development+student!++܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=840&lines=܀܀܀܀܀܀܀܀܀܀+Hy%2C++I'm+Al%C3%AA!|Java+and+Python+development+student!++܀܀܀܀܀܀܀܀܀܀)](https://git.io/typing-svg)
+
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 
 #### About Me!
