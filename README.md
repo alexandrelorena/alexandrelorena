@@ -93,8 +93,8 @@ public class aboutMe {
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Springboot" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="45"></a>&nbsp; 
   <a href="https://github.com/alexandrelorena/gastos.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="45"></a>&nbsp;
-  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a>
-  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="45"></a>&nbsp;  
+  <a href="" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"></a>&nbsp;
+  <a href="https://github.com/alexandrelorena/SuperPecas.git" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="45"></a>  
 </div>
 </details>
 
