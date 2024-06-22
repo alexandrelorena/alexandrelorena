@@ -14,19 +14,22 @@
 #### About Me!
 ```javascript
 
-public class aboutMe {
+public class AboutMe {
     public static void main(String[] args) {
-        var name = "Alexandre Lorena";
-        var age = 49;
-        var course = "Software Engineering";
-        var languages = "Java, Python, JavaScript, TypeScript";
-        var hobbies = "programming, music, movies, series";
+        String name = "Alexandre Lorena";
+        int age = 49;
+        String course = "Software Engineering";
+        String languages = "Java, Python, JavaScript, TypeScript";
+        String hobbies = "programming, music, movies, series";
 
+        printPersonalInfo(name, age, course, languages, hobbies);
+    }
+
+    private static void printPersonalInfo(String name, int age, String course, String languages, String hobbies) {
         System.out.println("Name: " + name + " | Age: " + age);
         System.out.println("Academic education: " + course);
         System.out.println("Languages: " + languages);
         System.out.println("Hobbies: " + hobbies);
-        
     }
 }
 
