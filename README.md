@@ -22,10 +22,10 @@ public class AboutMe {
         String languages = "Java, Python, JavaScript, TypeScript";
         String hobbies = "programming, music, movies, series";
 
-        printPersonalInfo(name, age, course, languages, hobbies);
+        personalInfo(name, age, course, languages, hobbies);
     }
 
-    private static void printPersonalInfo(String name, int age, String course, String languages, String hobbies) {
+    private static void personalInfo(String name, int age, String course, String languages, String hobbies) {
         System.out.println("Name: " + name + " | Age: " + age);
         System.out.println("Academic education: " + course);
         System.out.println("Languages: " + languages);
