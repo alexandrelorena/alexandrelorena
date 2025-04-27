@@ -36,13 +36,6 @@ public class AboutMe {
 
 ```
 
-<!-- CHECKBOX
-
-- [ ] checkbox
-* [X] checkbox
-- [X] checkbox
-+ [X] checkbox -->
-
 <p>
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
@@ -50,23 +43,6 @@ public class AboutMe {
     <img alt="Static Badge" src="https://img.shields.io/badge/angular%20 %20%7C%20%20django%20%7C%20java%20%7C%20javascript%20%7C%20mysql%20%7C%20%20postgres%20%7C%20python%20%7C%20spring boot%20%7C%20typescript%20%7C-%3E%20development%20__-blue?style=flat">
   </a>
 </p>
-
-<!-- > [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.x'x'' -->
-
-<!-- <span style="color:yellow;">Este é um texto amarelo.</span> -->
 
  <details> 
  <summary><strong>Languages of Markup and Style</strong></summary>
@@ -143,11 +119,6 @@ public class AboutMe {
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="350" alt="stats graph"/>
 </div>
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FF7B72&text_color=586069&title_color=F0F6FC&border_color=444444" height="330" alt="stats graph"/> -->
-
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FFD700&text_color=F0F6FC&title_color=FFD700&border_color=444444" height="330" alt="stats graph"/>
-
- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=00000000&icon_color=FF7B72&text_color=586069&title_color=FFD700&border_color=444444" height="330" alt="stats graph"/> -->
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
@@ -159,7 +130,7 @@ public class AboutMe {
   <a href="https://www.instagram.com/alexandre_lorena/" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/alexandrelorena-developer/" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
+    <img src="../alexandrelorena/images/LI-In.png" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/alefaith" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/x" alt="X" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@AleDevJavaPython" style="text-decoration: none;">
