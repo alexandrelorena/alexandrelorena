@@ -124,7 +124,7 @@ public class AboutMe {
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=840)
 
-<div>
+<!-- <div>
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/alexandre_lorena/" style="text-decoration: none;">
@@ -142,4 +142,4 @@ public class AboutMe {
 </div>
 
 </body>
-</html>
+</html> -->
