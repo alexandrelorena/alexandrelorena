@@ -110,14 +110,19 @@ public class AboutMe {
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
-<div>
+<div align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react" height="125" alt="languages graph"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="400" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="180" alt="stats graph"/> -->
+</div>
+<!-- <div>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react&bg_color=22272E&icon_color=98C1D9&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="221" alt="Wakatime graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="221" alt="languages graph"/>
 
   <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="350" alt="stats graph"/>
-</div>
+</div> -->
 
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
