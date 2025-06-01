@@ -17,7 +17,7 @@
 <!-- instagram -->
 <a href="https://instagram.com/alexandre_lorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre_lorena" height="30" width="40" /></a>
 <!-- linked-in -->
-<a href="https://linkedin.com/in/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
 <!-- youtube -->
 <a href="https://www.youtube.com/c/@aledevjavapython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
 <!-- stack-overflow -->
@@ -212,7 +212,7 @@ __Frontend:__ HTML | CSS | JavaScript
 <!-- instagram -->
 <a href="https://instagram.com/alexandre_lorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre_lorena" height="30" width="40" /></a>
 <!-- linked-in -->
-<a href="https://linkedin.com/in/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
 <!-- youtube -->
 <a href="https://www.youtube.com/c/@aledevjavapython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
 <!-- stack-overflow -->
