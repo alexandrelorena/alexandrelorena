@@ -184,8 +184,8 @@ __Frontend:__ HTML | CSS | JavaScript
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="200" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="190" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react" height="190" alt="languages graph" />
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrelorena" alt="alexandrelorena" /></a> </p>
