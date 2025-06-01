@@ -8,7 +8,7 @@
 <body>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=3F51B5&width=1000&lines=܀܀܀܀+Olá%2C+eu+sou+Alê!+Estudante+de+Java+e+Python!+܀܀܀܀;܀܀܀܀+Hi%2C+I'm+Alê!+Java+and+Python+development+student!+܀܀܀܀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=3F51B5&width=1000&lines=܀܀܀܀+Olá%2C+sou+estudante+de+desenvolvimento+Java+e+Python!+܀܀܀܀;܀܀܀܀+Hi%2C+i'm+Java+and+Python+development+student!+܀܀܀܀)](https://git.io/typing-svg)
 
 
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
@@ -21,7 +21,7 @@ public class AboutMe {
     public static void main(String[] args) {
         String name = "Alexandre Lorena";
         int age = 50;
-        String course = "Software Engineering";
+        String course = "Software Engineering"
         String languages = "Java, Python, JavaScript, TypeScript";
         String hobbies = "programming, music, movies, series";
 
