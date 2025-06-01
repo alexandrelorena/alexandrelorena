@@ -7,11 +7,34 @@
 </head>
 <body>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=EE6C4D&width=1000&lines=܀܀܀܀+Olá%2C+sou+estudante+de+desenvolvimento+Java+e+Python!+܀܀܀܀;܀܀܀܀+Hi%2C+i'm+Java+and+Python+development+student!+܀܀܀܀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=EE6C4D&width=1000&lines=܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Olá%2C+sou+estudante+de+desenvolvimento+Java+e+Python!+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀;܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Hi%2C+i'm+Java+and+Python+development+student!+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀)](https://git.io/typing-svg)
 
-### Sobre mim⤵ [Veja meu currículo](https://alexandrelorena.github.io/index.html)
+<h2 align="center">🎓 Engenheiro de Software | Desenvolvedor Backend 💻</h3>
 
-```javascript
+<p align="center">
+<!-- twitter -->
+<a href="https://twitter.com/alexandrelorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexandrelorena" height="30" width="40" /></a>
+<!-- instagram -->
+<a href="https://instagram.com/alexandre_lorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre_lorena" height="30" width="40" /></a>
+<!-- linked-in -->
+<a href="https://linkedin.com/in/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
+<!-- youtube -->
+<a href="https://www.youtube.com/c/@aledevjavapython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
+<!-- stack-overflow -->
+<a href="https://stackoverflow.com/users/23249049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23249049" height="30" width="40" /></a>
+<!--codechef -->
+<a href="https://www.codechef.com/users/alelorena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alelorena" height="30" width="40" /></a>
+<!-- codeforces -->
+<a href="https://codeforces.com/profile/alexandre.lorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alexandre.lorena" height="30" width="40" /></a>
+<!-- leet-code -->
+<a href="https://www.leetcode.com/alelorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alelorena" height="30" width="40" /></a>
+<!-- topcoder -->
+<a href="https://www.topcoder.com/members/alelorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="alelorena" height="30" width="40" /></a>
+</p>
+
+### Sobre mim ⤵   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Veja meu currículo](https://alexandrelorena.github.io/index.html)
+
+```java
 
 public class AboutMe {
     public static void main(String[] args) {
@@ -44,16 +67,16 @@ public class AboutMe {
   </a>
 </p>
 
-## 💼 Projetos em Destaque
+  # ⚡ Projetos em Destaque  
 
 ### 🧾 Financeiro
-Aplicação web desenvolvida para cadastrar, editar e excluir despesas.  
+Aplicação web desenvolvida em __Java__ para cadastrar, editar e excluir despesas.  
 
 🔧 **Tecnologias:** 
 
-Backend: Java | Spring Boot | MySQL
+__Backend:__ Java | Spring Boot | MySQL
 
-Frontend: Angular 17+ | Typescript | Node.js 
+__Frontend:__ Angular 17+ | Typescript | Node.js 
 
 🔗 **Repositório:** [github.com/alexandrelorena/financeiro](https://github.com/alexandrelorena/financeiro)
 
@@ -74,22 +97,22 @@ O objetivo era desenvolver uma aplicação com acesso a um banco de dados de car
 
 🔧 **Tecnologias:** 
 
-Backend: Java | Intellij | Springboot Initializr | Maven | JPA/Hibernate | Swagger | ModelMapper | API REST
+__Backend:__  Java | Intellij | Springboot Initializr | Maven | JPA/Hibernate | Swagger | ModelMapper | API REST
 
-Frontend: Angular 17 | NodeJS | Angular Material | PrimeNG. 
+__Frontend:__ Angular 17 | NodeJS | Angular Material | PrimeNG. 
 
 🔗 **Repositório:** [github.com/alexandrelorena/SuperPecas](https://github.com/alexandrelorena/SuperPecas)
 
 ---
 
 ### 🧾 Gastos
-Aplicação web desenvolvida para cadastrar, editar e excluir despesas.  
+Aplicação web desenvolvida em __Python__ para cadastrar, editar e excluir despesas.  
 
 🔧 **Tecnologias:** 
 
-Backend: Python 3.8+ | Django | PostgreSQL
+__Backend:__  Python 3.8+ | Django | PostgreSQL
 
-Frontend: HTML | CSS | JavaScript 
+__Frontend:__ HTML | CSS | JavaScript 
 
 🔗 **Repositório:** [github.com/alexandrelorena/gastos](https://github.com/alexandrelorena/gastos)
 
@@ -175,27 +198,34 @@ Frontend: HTML | CSS | JavaScript
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&bg_color=22272E&icon_color=EE6C4D&text_color=98C1D9&title_color=FFFFFF&border_color=444444" height="350" alt="stats graph"/>
 </div> -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrelorena" alt="alexandrelorena" /></a> </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=github-dark-blue&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=840)
 
-<!-- <div>
-  <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/alexandre_lorena/" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp; 
-<a href="https://www.linkedin.com/in/alexandrelorena-developer/" style="text-decoration: none;">
-    <img src="../alexandrelorena/images/LI-In.png" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/alefaith" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/x" alt="X" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@AleDevJavaPython" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/youtube" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/alexandrelorena/" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/steam/gray" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://discord.com/channels/alelorena" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/discord" width="32" height="32"></a>
-</div>
+<p align="left">
+<!-- twitter -->
+<a href="https://twitter.com/alexandrelorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexandrelorena" height="30" width="40" /></a>
+<!-- instagram -->
+<a href="https://instagram.com/alexandre_lorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre_lorena" height="30" width="40" /></a>
+<!-- linked-in -->
+<a href="https://linkedin.com/in/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
+<!-- youtube -->
+<a href="https://www.youtube.com/c/@aledevjavapython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
+<!-- stack-overflow -->
+<a href="https://stackoverflow.com/users/23249049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23249049" height="30" width="40" /></a>
+<!--codechef -->
+<a href="https://www.codechef.com/users/alelorena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alelorena" height="30" width="40" /></a>
+<!-- codeforces -->
+<a href="https://codeforces.com/profile/alexandre.lorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alexandre.lorena" height="30" width="40" /></a>
+<!-- leet-code -->
+<a href="https://www.leetcode.com/alelorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alelorena" height="30" width="40" /></a>
+<!-- topcoder -->
+<a href="https://www.topcoder.com/members/alelorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="alelorena" height="30" width="40" /></a>
+</p>
 
 </body>
-</html> -->
+</html>
