@@ -184,8 +184,8 @@ __Frontend:__ HTML | CSS | JavaScript
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="191" alt="languages graph" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react" height="191" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="190" alt="languages graph" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react" height="190" alt="languages graph" />
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=github-dark-blue&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
