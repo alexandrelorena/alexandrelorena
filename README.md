@@ -9,9 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=EE6C4D&width=1000&lines=܀܀܀܀+Olá%2C+sou+estudante+de+desenvolvimento+Java+e+Python!+܀܀܀܀;܀܀܀܀+Hi%2C+i'm+Java+and+Python+development+student!+܀܀܀܀)](https://git.io/typing-svg)
 
-### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
-
-#### About Me!
+### Sobre mim⤵ [Veja meu currículo](https://alexandrelorena.github.io/index.html)
 
 ```javascript
 
@@ -45,6 +43,57 @@ public class AboutMe {
     <img alt="Static Badge" src="https://img.shields.io/badge/angular%20 %20%7C%20%20django%20%7C%20java%20%7C%20javascript%20%7C%20mysql%20%7C%20%20postgres%20%7C%20python%20%7C%20spring boot%20%7C%20typescript%20%7C-%3E%20development%20__-blue?style=flat">
   </a>
 </p>
+
+## 💼 Projetos em Destaque
+
+### 🧾 Financeiro
+Aplicação web desenvolvida para cadastrar, editar e excluir despesas.  
+
+🔧 **Tecnologias:** 
+
+Backend: Java | Spring Boot | MySQL
+
+Frontend: Angular 17+ | Typescript | Node.js 
+
+🔗 **Repositório:** [github.com/alexandrelorena/financeiro](https://github.com/alexandrelorena/financeiro)
+
+---
+
+### 🧠 Quiz Interativo (Angular)
+Projeto de quiz com temas variados, utilizando **Angular** com rotas, componentes reutilizáveis e estilização com **CSS**. 
+
+🔧 **Tecnologias:** Angular, CSS.  
+
+🔗 **Repositório:** [github.com/alexandrelorena/quizz](https://github.com/alexandrelorena/quizz)
+
+---
+
+### 🚗 SuperPecas (Java)
+Curso/mentoria de Java e Angular, realizado com duração de 4 semanas.
+O objetivo era desenvolver uma aplicação com acesso a um banco de dados de carros e peças.
+
+🔧 **Tecnologias:** 
+
+Backend: Java | Intellij | Springboot Initializr | Maven | JPA/Hibernate | Swagger | ModelMapper | API REST
+
+Frontend: Angular 17 | NodeJS | Angular Material | PrimeNG. 
+
+🔗 **Repositório:** [github.com/alexandrelorena/SuperPecas](https://github.com/alexandrelorena/SuperPecas)
+
+---
+
+### 🧾 Gastos
+Aplicação web desenvolvida para cadastrar, editar e excluir despesas.  
+
+🔧 **Tecnologias:** 
+
+Backend: Python 3.8+ | Django | PostgreSQL
+
+Frontend: HTML | CSS | JavaScript 
+
+🔗 **Repositório:** [github.com/alexandrelorena/gastos](https://github.com/alexandrelorena/gastos)
+
+---
 
  <details> 
  <summary><strong>Languages of Markup and Style</strong></summary>
