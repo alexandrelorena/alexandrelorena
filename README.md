@@ -19,7 +19,7 @@
 <!-- linked-in -->
 <a href="https://linkedin.com/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
 <!-- youtube -->
-<a href="https://www.youtube.com/c/@aledevjavapython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AleDevJavaPython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
 <!-- stack-overflow -->
 <a href="https://stackoverflow.com/users/23249049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23249049" height="30" width="40" /></a>
 <!--codechef -->
@@ -214,7 +214,7 @@ __Frontend:__ HTML | CSS | JavaScript
 <!-- linked-in -->
 <a href="https://linkedin.com/in/alexandrelorena-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alexandrelorena-developer" height="30" width="40" /></a>
 <!-- youtube -->
-<a href="https://www.youtube.com/c/@aledevjavapython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AleDevJavaPython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aledevjavapython" height="30" width="40" /></a>
 <!-- stack-overflow -->
 <a href="https://stackoverflow.com/users/23249049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23249049" height="30" width="40" /></a>
 <!--codechef -->
