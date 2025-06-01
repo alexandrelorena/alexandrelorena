@@ -7,9 +7,7 @@
 </head>
 <body>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=EE6C4D&width=1000&lines=܀܀܀܀+Olá%2C+sou+estudante+de+desenvolvimento+Java+e+Python!+܀܀܀܀;܀܀܀܀+Hi%2C+i'm+Java+and+Python+development+student!+܀܀܀܀)](https://git.io/typing-svg)
-
 
 ### [Click here](https://alexandrelorena.github.io/index.html) to access my online resume.
 
@@ -21,18 +19,20 @@ public class AboutMe {
     public static void main(String[] args) {
         String name = "Alexandre Lorena";
         int age = 50;
-        String course = "Software Engineering"
+        String graduation = "Bacharelado em Engenharia de Software";
         String languages = "Java, Python, JavaScript, TypeScript";
         String hobbies = "programming, music, movies, series";
 
-        personalInfo(name, age, course, languages, hobbies);
+        personalInfo(name, age, graduation, languages, hobbies);
     }
 
-    private static void personalInfo(String name, int age, String course, String languages, String hobbies) {
-        System.out.println("Name: " + name + " | Age: " + age);
-        System.out.println("Academic education: " + course);
-        System.out.println("Languages: " + languages);
-        System.out.println("Hobbies: " + hobbies);
+    private static void personalInfo(String name, int age, String graduation, String languages, String hobbies) {
+        System.out.println("═══════════════════════════════════════");
+        System.out.println("👤 Name: " + name + " | 🎂 Age: " + age);
+        System.out.println("🎓 Academic education: " + graduation);
+        System.out.println("💻 Languages: " + languages);
+        System.out.println("🎯 Hobbies: " + hobbies);
+        System.out.println("═══════════════════════════════════════");
     }
 }
 
