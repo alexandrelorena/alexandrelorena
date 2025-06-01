@@ -59,7 +59,7 @@ Frontend: Angular 17+ | Typescript | Node.js
 
 ---
 
-### 🧠 Quiz Interativo (Angular)
+### 🧠 Quiz Interativo
 Projeto de quiz com temas variados, utilizando **Angular** com rotas, componentes reutilizáveis e estilização com **CSS**. 
 
 🔧 **Tecnologias:** Angular, CSS.  
@@ -68,7 +68,7 @@ Projeto de quiz com temas variados, utilizando **Angular** com rotas, componente
 
 ---
 
-### 🚗 SuperPecas (Java)
+### 🚗 SuperPecas
 Curso/mentoria de Java e Angular, realizado com duração de 4 semanas.
 O objetivo era desenvolver uma aplicação com acesso a um banco de dados de carros e peças.
 
