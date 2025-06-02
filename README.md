@@ -184,11 +184,11 @@ __Frontend:__ HTML | CSS | JavaScript
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="190" alt="languages graph" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react" height="190" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="190" alt="Languages Graph" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react&hide_border=true" height="190" alt="GitHub Stats" />
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=github-dark-blue&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=react&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrelorena" alt="alexandrelorena" /></a> </p>
 
