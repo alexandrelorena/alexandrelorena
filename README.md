@@ -71,8 +71,6 @@ public class AboutMe {
 ### 🧾 Financeiro
 Aplicação web desenvolvida em __Java__ para cadastrar, editar e excluir despesas.  
 
-🔧 **Tecnologias:** 
-
 __Backend:__ Java | Spring Boot | MySQL
 
 __Frontend:__ Angular 17+ | Typescript | Node.js 
@@ -82,7 +80,7 @@ __Frontend:__ Angular 17+ | Typescript | Node.js
 ---
 
 ### 🧠 Quiz Interativo
-Projeto de quiz com temas variados, utilizando **Angular** com rotas, componentes reutilizáveis e estilização com **CSS**. 
+Projeto de quiz com temas variados, utilizando **Angular** com **rotas**, **componentes reutilizáveis** e estilização com **CSS**. 
 
 🔧 **Tecnologias:** Angular, CSS.  
 
@@ -91,10 +89,8 @@ Projeto de quiz com temas variados, utilizando **Angular** com rotas, componente
 ---
 
 ### 🚗 SuperPecas
-Curso/mentoria de Java e Angular, realizado com duração de 4 semanas.
-O objetivo era desenvolver uma aplicação com acesso a um banco de dados de carros e peças.
-
-🔧 **Tecnologias:** 
+Curso/mentoria de __Java__ e __Angular__ com duração de 4 semanas.
+O objetivo era desenvolver uma aplicação com acesso a um **banco de dados** de carros e peças.
 
 __Backend:__  Java | Intellij | Springboot Initializr | Maven | JPA/Hibernate | Swagger | ModelMapper | API REST
 
@@ -106,8 +102,6 @@ __Frontend:__ Angular 17 | NodeJS | Angular Material | PrimeNG.
 
 ### 🧾 Gastos
 Aplicação web desenvolvida em __Python__ para cadastrar, editar e excluir despesas.  
-
-🔧 **Tecnologias:** 
 
 __Backend:__  Python 3.8+ | Django | PostgreSQL
 
