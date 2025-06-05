@@ -7,7 +7,7 @@
 </head>
 <body>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=EE6C4D&width=1000&lines=܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Engenheiro+de+Software+🧠+Desenvolvedor+Backend+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀;+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Software+Engineer+🧠+Backend+Developer+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=EE6C4D&width=1000&lines=܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Engenheiro+de+Software+🧠+Desenvolvedor+Backend+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀;+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀+Software+Engineer+🧠+Backend+Developer+܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀܀)](https://git.io/typing-svg)
 
 <p align="center">
 <!-- twitter -->
