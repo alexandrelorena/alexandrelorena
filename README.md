@@ -177,7 +177,7 @@ __Frontend:__ HTML | CSS | JavaScript
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=react&hide_border=true&order=2" height="190" alt="Languages Graph" />
-  &nbsp;<img src="images/divisor_E5E2E2_2x190.png" alt="divider" height="188" width="1" />&nbsp;
+  <img src="images/divisor_E5E2E2_2x190.png" alt="divider" height="188" width="1" />
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react&hide_border=true" height="190" alt="GitHub Stats" />
 </p>
 
