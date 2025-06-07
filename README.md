@@ -60,7 +60,7 @@ public class AboutMe {
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/angular%20 %20%7C%20%20apirest%20%7C%20%20django%20%7C%20java%20%7C%20maven%20%7C%20mysql%20%7C%20%20nodejs%20%7C%20%20postgres%20%7C%20python%20%7C%20spring boot%20%7C%20typescript-%3Edev%20__-blue?style=flat">
+    <img alt="Static Badge" src="https://img.shields.io/badge/angular%20 %20%7C%20%20apirest%20%7C%20%20django%20%7C%20java%20%7C%20maven%20%7C%20mysql%20%7C%20%20nodejs%20%7C%20%20postgres%20%7C%20python%20%7C%20spring boot%20%7C%20typescript-%3E-blue?style=flat">
   </a>
 </p>
 
