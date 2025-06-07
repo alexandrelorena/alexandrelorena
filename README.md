@@ -56,7 +56,7 @@ public class AboutMe {
 }
 
 ```
-<p>
+<p align="center">
   <a href="https://wakatime.com/@53fb849d-9501-4f2c-90d1-a4aeaa90ef65" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/53fb849d-9501-4f2c-90d1-a4aeaa90ef65.svg" alt="Wakatime"></a>
   <a href="https://github.com/alexandrelorena?tab=repositories" style="text-decoration: none;">
