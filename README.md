@@ -176,8 +176,9 @@ __Frontend:__ HTML | CSS | JavaScript
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=332&langs_count=5&theme=react&hide_border=true&order=2" height="800" alt="Languages Graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=332&langs_count=5&theme=react&hide_border=true&order=2" height="200" alt="Languages Graph" />
+  <img src="images/divisor_E5E2E2_2x190.png" alt="divider" height="188" width="1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react&hide_border=true" height="190" alt="GitHub Stats" />
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=react&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
