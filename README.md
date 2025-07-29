@@ -176,7 +176,7 @@ __Frontend:__ HTML | CSS | JavaScript
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=332&langs_count=5&theme=react&hide_border=true&order=2" height="400" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrelorena&locale=en&hide_title=false&layout=compact&card_width=332&langs_count=5&theme=react&hide_border=true&order=2" height="800" alt="Languages Graph" />
 
 </p>
 
