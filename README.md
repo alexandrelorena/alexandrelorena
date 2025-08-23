@@ -37,7 +37,7 @@
 public class AboutMe {
     public static void main(String[] args) {
         String name = "Alexandre Lorena";
-        int age = 50;
+        int age = 51;
         String graduation = "Bacharelado em Engenharia de Software";
         String languages = "Java, Python, JavaScript, TypeScript";
         String hobbies = "programming, music, movies, series";
