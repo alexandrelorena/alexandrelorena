@@ -183,7 +183,7 @@ __Frontend:__ HTML | CSS | JavaScript
 </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=react&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrelorena" alt="alexandrelorena" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrelorena" alt="alexandrelorena" /></a> </p> -->
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
