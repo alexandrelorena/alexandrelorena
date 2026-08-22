@@ -150,14 +150,15 @@ Aplicação web desenvolvida em **Python** para cadastrar, editar e excluir desp
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=react&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexandrelorena&theme=react&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=840)
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br> -->
 
-<img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br>
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22auh44sgodxcezzorqr3pmsy&width=840)
 
+<img src="https://i.imgur.com/h1q7oo1.jpg" width="840" height="1"><br> -->
 
 <!-- SOCIAL_LINKS_START -->
 <p align="left">
